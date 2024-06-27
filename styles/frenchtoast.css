@@ -1,0 +1,12 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #D77C69ff;
+}
+
+h1, h2 {
+    color: #564641ff;
+}
+
+p, ul, ol {
+    color: #630705ff;
+}
