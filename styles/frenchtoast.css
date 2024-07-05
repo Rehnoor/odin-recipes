@@ -3,10 +3,22 @@ body {
     background-color: #D77C69ff;
 }
 
-h1, h2 {
+h1 {
+    text-align: center;
+    background-color: rgb(176, 102, 87);
+    color: #564641ff;
+    padding: 10px;
+}
+
+h2 {
     color: #564641ff;
 }
 
 p, ul, ol {
     color: #630705ff;
+}
+
+img {
+    width: 650px;
+    height: auto;
 }

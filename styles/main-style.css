@@ -1,9 +1,16 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #ead7c3;
+    background-color: #9DA9A0;
     color: #fbf6ef;
 }
 
+.title-block {
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: #7B2D26;
+}
+
 a {
-    color: #fbf6ef;
+    color: #02182B;
 }
